@@ -1,0 +1,43 @@
+.container {
+    padding: 20px;
+    background-color: #c1c9ca;
+  }
+  
+  .card {
+    background-color: antiquewhite;
+    border: 1px solid #f9f9f7;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 20px;
+   
+  }
+  
+  .card-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .card-title h2 {
+    margin: 0;
+  }
+  
+  .btn {
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .btn-info {
+    background-color: #1099ae;
+    color: #fff;
+  }
+  
+  .btn-info:hover {
+    background-color: #133c96;
+  }
+  
+  
+  .row {
+    margin: 0;
+  }
+  
